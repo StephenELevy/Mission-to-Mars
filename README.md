@@ -26,3 +26,6 @@
 
     *    app.py -- applied Flask functions to create the routes and website link for the scraped output.
 
+
+![Mars Hemispheres screenshot-1](./Mars_hemispheres-1.PNG)
+![Mars Hemispheres screenshot-2](./Mars_hemispheres-2.PNG)
