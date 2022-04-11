@@ -20,7 +20,7 @@
 
     *    Mission_to_Mars_Challenge.ipynb -- used to develop and test scaping algorithms.
 
-    *    scraping_challenge.py -- used to transform the scraping algorithms into functions.
+    *    scraping.py -- used to transform the scraping algorithms into functions.
 
     *    index.html -- contains the HTML file for the scraped data.
 
